@@ -2,11 +2,11 @@
 node_modules
 .idea
 # 1)
-/**/tmp/??
+/**/tmp/??.png
 # 2)
-/**/*.php
+*.php
 # 3)
-!public/\!index.php
+!public/!index.php
 # 4)
 /**/*.jpg
-!/public/*.jpg
+!public/*.jpg
